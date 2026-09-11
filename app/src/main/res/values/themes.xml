@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HourlyTalkClock" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B4B73</item>
+        <item name="android:statusBarColor">#0E2A44</item>
+        <item name="android:navigationBarColor">#0E2A44</item>
+    </style>
+</resources>
